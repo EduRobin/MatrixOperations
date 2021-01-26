@@ -1,3 +1,5 @@
+Kuliočko Oliver Statis Cavallo a Robin Ivan Cavallo
+
 # MatrixOperations
 ## TODO
 - [ ] Finish implementing the `MatrixtTest` test class.
